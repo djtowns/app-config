@@ -14,5 +14,5 @@ logging:
 greeting:
   displayFortune: false 
 
-quoteService
+quoteService:
   URL: http://quote-service-dev.cfapps.io/quote
